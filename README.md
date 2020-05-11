@@ -1,4 +1,4 @@
-# This Website Will Self Destruct Archiver
+# "This Website Will Self Destruct" Archiver
 
 A popular website named ``This Website will self destruct`` came up on May 10th and over 100k people have posted anonymous letters on it. This is a simple scraper that parses the API of it and saves it to a file named ``db.json``.
 
